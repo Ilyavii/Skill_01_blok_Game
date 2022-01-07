@@ -2,14 +2,14 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Какой-кейс-решаем)  
-[3. Результат](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Результат)    
-[4. Выводы](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Какой-кейс-решаем)  
+[3. Результат](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Результат)    
+[4. Выводы](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Описание-проекта) 
 
 
 ### Какой кейс решаем?    
@@ -29,13 +29,13 @@
 ### Результаты:  
 Среднее количество попыток 5
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilyavii/Skill_01_blok_Game/.README.md#Оглавление)
 
 
 ### Выводы:  
 Алгоритмы - очень важны для изучения
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilyavii/Skill_01_blok_Game/.README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
