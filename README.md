@@ -1,10 +1,10 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Результат](.README.md#Результат)    
-[4. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Ilyavii/Skill_01_blok_Game/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Какой-кейс-решаем)  
+[3. Результат](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Результат)    
+[4. Выводы](https://github.com/Ilyavii/Skill_01_blok_GameREADME.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
